@@ -11,7 +11,7 @@
 - **React Native SVG** - Drawing SVG
 
 ## Project Structure
-
+```
 $PROJECT_ROOT
 |-- App.tsx         # Entry point
 |-- src             
@@ -19,6 +19,7 @@ $PROJECT_ROOT
     |-- components  # UI components
     |-- utils       # Custom hooks and helpers
     |-- assets      # Image files
+```
 
 ## Useful Commands
 
